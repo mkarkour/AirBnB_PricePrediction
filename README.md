@@ -39,7 +39,7 @@ Feel free to explore the code and the Gradio application to see how the price pr
 To use the Gradio application for Airbnb price prediction, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies as specified in the `requirements.txt` file.
+2. Install the required dependencies as specified below.
 3. Run the Gradio application script.
 4. Input the property characteristics for which you want to receive a price prediction.
 5. Receive the predicted Airbnb price based on the provided data.
